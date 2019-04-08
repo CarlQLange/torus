@@ -126,7 +126,7 @@ to your init file.
 
 ** First Circles
 
-Let’s say we have the files =Juice=, =Tea=, =Coffe=. The first thing
+Let’s say we have the files =Juice=, =Tea=, =Coffee=. The first thing
 to do is to create a group (a circle) which will contain them. So, we
 launch ~torus-add-circle~ and answer =Drinks= to the prompt. Then, we
 go to =Juice= and use ~torus-add-location~ to add it to the circle.
